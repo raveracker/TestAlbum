@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "title": "Webpack",
+        "description": "Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included. Webpack takes modules with dependencies and generates static assets representing those modules."
+    },
+    {
+        "id": "1",
+        "title": "React",
+        "description": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded."
+    },
+    {
+        "id": "2",
+        "title": "Redux",
+        "description": "Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark."
+    },
+    {
+        "id": "3",
+        "title": "React-Redux",
+        "description": "React Redux is the official React binding for Redux. It lets your React components read data from a Redux store, and dispatch actions to the store to update data."
+    },
+    {
+        "id": "4",
+        "title": "Redux-Thunk",
+        "description": "Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met."
+    },
+    {
+        "id": "5",
+        "title": "ES-Lint",
+        "description": "ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code. It is created by Nicholas C. Zakas in 2013. Rules in ESLint are configurable, and customized rules can be defined and loaded."
+    },
+    {
+        "id": "6",
+        "title": "Babel",
+        "description": "Babel is a free and open-source JavaScript compiler that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript that can be run by older JavaScript engines."
+    },
+    {
+        "id": "7",
+        "title": "Axios",
+        "description": "Axios is a lightweight HTTP client based on the $http service within Angular.js v1.x and similar to the Fetch API. Axios is promise-based and thus we can take advantage of async and await for more readable asynchronous code."
+    },
+    {
+        "id": "8",
+        "title": "Lodash",
+        "description": "Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm."
+    }
+]
